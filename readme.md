@@ -14,7 +14,7 @@ A Python desktop application to control Govee Bluetooth LED light strips over BL
 ## Requirements
 
 - Python 3.8 or higher  
-- Bluetooth adapter compatible with BLE  
+- Bluetooth adapter compatible with BLE or a BLE compatible bluetooth card (I believe most modern computers have BLE?)
 - Windows, macOS, or Linux with Bluetooth support  
 
 ---
